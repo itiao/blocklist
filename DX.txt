@@ -31,3 +31,4 @@
 ||starrydyn.com^
 ||xdrtc.com^
 ||zijieapi.com^
+||douyinstatic.com^
