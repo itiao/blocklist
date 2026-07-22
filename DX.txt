@@ -33,3 +33,4 @@
 ||zijieapi.com^
 ||douyinstatic.com^
 ||queniurc.com^
+||douyinpic.com^
