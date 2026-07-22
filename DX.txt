@@ -32,3 +32,4 @@
 ||xdrtc.com^
 ||zijieapi.com^
 ||douyinstatic.com^
+||queniurc.com^
