@@ -34,3 +34,5 @@
 ||douyinstatic.com^
 ||queniurc.com^
 ||douyinpic.com^
+||douyinliving.com^
+||bytegecko.com^
